@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "134387228390",
+    "firebase_url": "https://gochat-97a8a.firebaseio.com",
+    "project_id": "gochat-97a8a",
+    "storage_bucket": "gochat-97a8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134387228390:android:06958d97460816bd",
+        "android_client_info": {
+          "package_name": "edu.unidhaka.cse.cse2216.gochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134387228390-5lha3ubvqh9re8ki5qoj70g600cravjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.unidhaka.cse.cse2216.gochat",
+            "certificate_hash": "b33b9af6f7c41562575a137cbdbf49afce87d92e"
+          }
+        },
+        {
+          "client_id": "134387228390-0bai4rgp9jahjjfdn2cvf8ia9t7thhck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.unidhaka.cse.cse2216.gochat",
+            "certificate_hash": "99b05638cc2f17515c385322deb21f06645c37e0"
+          }
+        },
+        {
+          "client_id": "134387228390-dbq1bq83ufll5v5oaedmqhqua95amup5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYQTra54ynLfl9aNGoxJ6V1L7Xdxbbqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134387228390-dbq1bq83ufll5v5oaedmqhqua95amup5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
